@@ -8,7 +8,9 @@ An animal lover 😻🐶 and aspiring musician 🎸.
 - 🔭 I am currently working as a full stack developer
 - 👩🏽‍💻 I am developing projects using React, Javascript, Node js, MySql and Php
 - 🤝🏽 I'm looking to collaborate in the community
-- 📫You can find me on 👉 [Linkedin](https://www.linkedin.com/in/erika-perciliano/) and [Instagram ](https://www.instagram.com/erikadeveloper/?hl=pt-br/)
 - 😄 I had the opportunity to participate in the Rocketseat Space Squad (Mentoring)
+- ✍🏼 I am currently doing the bootcamp launch base at rocketseat 
+- 📫You can find me on 👉 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/erikaperciliano)](https://github.com/erikaperciliano), [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erika-perciliano/)](https://www.linkedin.com/in/erika-perciliano/) and [![Instagram Badge](https://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/erikadeveloper/?hl=pt-br/)](https://www.instagram.com/erikadeveloper/?hl=pt-br/)
+
 
 
