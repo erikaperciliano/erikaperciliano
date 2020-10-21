@@ -4,7 +4,6 @@
 I'm a junior developer from Brazil 🎯
 
 An animal lover 😻🐶 and aspiring musician 🎸.
-Here are some ideas to get you started:
 
 - 🔭 I am currently working as a full stack developer
 - 🌱 I am developing projects using React, Javascript, Node js, MySql and Php
