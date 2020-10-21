@@ -1,7 +1,5 @@
 ### Hello World, I´m Erika 🌍
 
-<!--
-**erikaperciliano/erikaperciliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm a junior developer from Brazil 🎯
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - 📫You can find me on 👉 [Linkedin](https://www.linkedin.com/in/erika-perciliano/) and [Instagram ](https://www.instagram.com/erikadeveloper/?hl=pt-br/)
 - 😄 I had the opportunity to participate in the Rocketseat Space Squad (Mentoring)
 - 
--->
+
