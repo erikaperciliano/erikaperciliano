@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello World, I´m Erika 🌍
 
 <!--
 **erikaperciliano/erikaperciliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+I'm a junior developer from Brazil 🎯
+
+An animal lover 😻🐶 and aspiring musician 🎸.
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I am currently working as a full stack developer
+- 🌱 I am developing projects using React, Javascript, Node js, MySql and Php
+- 👯 I'm looking to collaborate more in the community
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫You can find me on 👉 [Linkedin](https://www.linkedin.com/in/erika-perciliano/) and [Instagram ](https://www.instagram.com/erikadeveloper/?hl=pt-br/)
+- 😄 I had the opportunity to participate in the Rocketseat Space Squad (Mentoring)
+- 
 -->
