@@ -6,7 +6,7 @@ I'm a junior developer from Brazil 🎯
 An animal lover 😻🐶 and aspiring musician 🎸.
 
 - 🔭 I am currently working as a full stack developer
-- 👩🏽‍💻 I am developing projects using React, Javascript, Node js, MySql and Php
+- 👩🏽‍💻 I am developing projects using React, TypeScript, Javascript, Node js and MySql
 - 🤝🏽 I'm looking to collaborate in the community
 - 😄 I had the opportunity to participate in the Rocketseat Space Squad (Mentoring)
 - ✍🏼 I am currently doing the bootcamp launch base at rocketseat 
