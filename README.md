@@ -18,7 +18,7 @@
 <br/>
 <img width="250" align="right" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 <h3 align="left"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A little more about me...</h3>
-I'm a Front-End Developer from Brazil 🇧🇷 🎯
+I'm a Software Engineer Front-End from Brazil 🇧🇷 🎯
 
 An animal lover 😻🐶 and aspiring musician 🎸.
 
