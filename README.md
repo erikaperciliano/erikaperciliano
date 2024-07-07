@@ -22,7 +22,7 @@ I'm a Software Engineer Front-End from Brazil 🇧🇷 🎯 living in Portugal �
 
 An animal lover 😻🐶 and aspiring musician 🎸.
 
-- 🔭 I am currently working as a Software Engineer Frontend
+- 🔭 I am currently working as a Software Engineer
 - 👩🏽‍💻 I am developing projects using React, Vue JS, TypeScript, React Native, NodeJS and Javascript
 - 🤝🏽 I'm looking to collaborate in the community
 - 😄 I had the opportunity to participate in the Rocketseat Space Squad (Mentoring)
