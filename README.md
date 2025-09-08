@@ -34,9 +34,9 @@ An animal lover 😻🐶 and aspiring musician 🎸.
 
 
 <br/>
-[![Anurag's github stats] (https://github-readme-stats.vercel.app/api?username=erikaperciliano&count_private=true&count_private=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erikaperciliano&count_private=true&count_private=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=erikaperciliano&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikaperciliano&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
