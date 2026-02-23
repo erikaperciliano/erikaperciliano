@@ -32,7 +32,7 @@ I'm a Software Engineer from Brazil 🇧🇷 🎯
 An animal lover 😻🐶 and aspiring musician 🎸.
 
 - 🔭 I am currently working as a Software Engineer
-- 👩🏽‍💻 I am developing projects using React, Vue JS, TypeScript, React Native, NodeJS and Javascript
+- 👩🏽‍💻 I am developing projects using React, Next, Vue JS, TypeScript, React Native, NodeJS and Javascript
 - 🤝🏽 I'm looking to collaborate in the community
 - 😄 I had the opportunity to participate in the Rocketseat Space Squad (Mentoring)
 - ✍🏼 I am currently creating projects to Improve my skill in React JS, TypeScript, Next JS, React Native, Node.js and GraphQL
